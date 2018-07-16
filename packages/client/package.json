@@ -1,0 +1,24 @@
+{
+  "name": "go-gas-client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html --port 8080",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krivaten/go-gas.git"
+  },
+  "author": "Kris Van Houten <krivaten@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krivaten/go-gas/issues"
+  },
+  "homepage": "https://github.com/krivaten/go-gas#readme",
+  "devDependencies": {
+    "cssnano": "^4.0.1"
+  }
+}
