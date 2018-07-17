@@ -71,3 +71,10 @@ typings/
 
 # Serverless directories
 .serverless
+
+# Parcel
+dist
+
+# VS Code
+last.sql
+temp.sql
