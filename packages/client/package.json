@@ -19,11 +19,20 @@
   },
   "homepage": "https://github.com/krivaten/go-gas#readme",
   "devDependencies": {
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
     "babel-core": "^6.26.3",
     "babel-preset-airbnb": "^2.5.2",
     "cssnano": "^4.0.1",
     "node-sass": "^4.9.2",
+    "parcel-plugin-typescript": "^1.0.0",
+    "prettier": "^1.13.7",
+    "tslint-config-prettier": "^1.13.0",
+    "tslint-react": "^3.6.0",
     "typescript": "^2.9.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
 }
