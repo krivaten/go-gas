@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/krivaten/go-gas#readme",
   "devDependencies": {
-    "cssnano": "^4.0.1"
+    "cssnano": "^4.0.1",
+    "node-sass": "^4.9.2"
+  },
+  "dependencies": {
   }
 }
